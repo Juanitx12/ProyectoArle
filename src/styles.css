@@ -1,0 +1,10 @@
+body{
+background: #acb6e5;
+background: -webkit-linear-gradient(to right, #86fde8, #acb6e5);  
+background: linear-gradient(to right, #86fde8, #acb6e5);
+}
+
+.titulo{
+	font-family: 'Gluten', cursiva;
+	text-align: center;
+}
